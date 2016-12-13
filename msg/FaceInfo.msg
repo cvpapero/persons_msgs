@@ -1,0 +1,3 @@
+bool is_tracked
+persons_msgs/Rotation rotation
+persons_msgs/FaceProp propertie

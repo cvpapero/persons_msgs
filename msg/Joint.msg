@@ -1,0 +1,5 @@
+string joint_name
+float64 tracking_state
+geometry_msgs/Point position_color_space
+geometry_msgs/Point position
+geometry_msgs/Quaternion orientation
